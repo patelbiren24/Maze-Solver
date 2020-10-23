@@ -9,4 +9,4 @@ This small project is a written in C programming language. In this project, I us
   <br> <li> type ./a.out path1.txt, or if you want to run a different path file ./a.out path2.txt </br></li>
  </ul>
  
-<p> Note, only path4.txt is the only file that does not contain a solution. Both the path1.txt and path2.txt have a solution. </p> 
+<p> Note, path4.txt is the only file that does not contain a solution. Both the path1.txt and path2.txt have a solution. </p> 
